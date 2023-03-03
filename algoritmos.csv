@@ -1,0 +1,51 @@
+Algoritmo,Objetivo,Tempo de processamento
+Busca em Largura,1,{datetime.timedelta(microseconds=13)}
+Busca em Largura,2,{datetime.timedelta(microseconds=15)}
+Busca em Largura,3,{datetime.timedelta(microseconds=9)}
+Busca em Largura,4,{datetime.timedelta(microseconds=14)}
+Busca em Largura,5,{datetime.timedelta(microseconds=20)}
+Busca em Largura,6,{datetime.timedelta(microseconds=32)}
+Busca em Largura,7,{datetime.timedelta(microseconds=43)}
+Busca em Largura,8,{datetime.timedelta(microseconds=67)}
+Busca em Largura,9,{datetime.timedelta(microseconds=90)}
+Busca em Largura,10,{datetime.timedelta(microseconds=834)}
+Busca em Largura,11,{datetime.timedelta(microseconds=183)}
+Busca em Largura,12,{datetime.timedelta(microseconds=287)}
+Busca em Largura,13,{datetime.timedelta(microseconds=1465)}
+Busca em Largura,14,{datetime.timedelta(microseconds=687)}
+Busca em Largura,15,{datetime.timedelta(microseconds=805)}
+Busca em Largura,16,{datetime.timedelta(microseconds=1242)}
+Busca em Largura,17,{datetime.timedelta(microseconds=1843)}
+Busca em Largura,18,{datetime.timedelta(microseconds=2156)}
+Busca em Largura,19,{datetime.timedelta(microseconds=3009)}
+Busca em Largura,20,{datetime.timedelta(microseconds=5224)}
+Busca em Largura,21,{datetime.timedelta(microseconds=6021)}
+Busca em Largura,22,{datetime.timedelta(microseconds=8171)}
+Busca em Largura,23,{datetime.timedelta(microseconds=9672)}
+Busca em Largura,24,{datetime.timedelta(microseconds=13782)}
+Busca em Largura,25,{datetime.timedelta(microseconds=16748)}
+Busca em Largura,26,{datetime.timedelta(microseconds=27271)}
+Busca em Largura,27,{datetime.timedelta(microseconds=34099)}
+Busca em Largura,28,{datetime.timedelta(microseconds=49124)}
+Busca em Largura,29,{datetime.timedelta(microseconds=66919)}
+Busca em Largura,30,{datetime.timedelta(microseconds=100104)}
+Busca em Largura,31,{datetime.timedelta(microseconds=136567)}
+Busca em Largura,32,{datetime.timedelta(microseconds=198265)}
+Busca em Largura,33,{datetime.timedelta(microseconds=261248)}
+Busca em Largura,34,{datetime.timedelta(microseconds=394455)}
+Busca em Largura,35,{datetime.timedelta(microseconds=536788)}
+Busca em Largura,36,"{datetime.timedelta(seconds=14, microseconds=58398)}"
+Busca em Largura,37,"{datetime.timedelta(seconds=1, microseconds=77752)}"
+Busca em Largura,38,"{datetime.timedelta(seconds=15, microseconds=888317)}"
+Busca em Largura,39,"{datetime.timedelta(seconds=17, microseconds=173705)}"
+Busca em Largura,40,"{datetime.timedelta(seconds=18, microseconds=635088)}"
+Busca em Largura,41,"{datetime.timedelta(seconds=20, microseconds=320912)}"
+Busca em Largura,42,"{datetime.timedelta(seconds=34, microseconds=603325)}"
+Busca em Largura,43,"{datetime.timedelta(seconds=59, microseconds=756878)}"
+Busca em Largura,44,"{datetime.timedelta(seconds=95, microseconds=638929)}"
+Busca em Largura,45,"{datetime.timedelta(seconds=97, microseconds=526786)}"
+Busca em Largura,46,"{datetime.timedelta(seconds=217, microseconds=995943)}"
+Busca em Largura,47,"{datetime.timedelta(seconds=644, microseconds=377921)}"
+Busca em Largura,48,"{datetime.timedelta(seconds=1205, microseconds=658620)}"
+Busca em Largura,49,"{datetime.timedelta(seconds=1010, microseconds=494788)}"
+Busca em Largura,50,"{datetime.timedelta(seconds=1911, microseconds=727312)}"
